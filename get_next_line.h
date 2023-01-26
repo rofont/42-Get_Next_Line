@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rofontai <rofontai@student.42.fr>          +#+  +:+       +#+        */
+/*   By: romain <romain@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 09:34:19 by rofontai          #+#    #+#             */
-/*   Updated: 2022/12/15 11:56:47 by rofontai         ###   ########.fr       */
+/*   Updated: 2023/01/26 15:00:18 by romain           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,8 @@
 
 # include <unistd.h>
 # include <stdlib.h>
-# include <stdio.h>		/*à Supprimer*/
-# include <fcntl.h>		/*à Supprimer*/
+# include <stdio.h>		
+# include <fcntl.h>
 # include <limits.h>
 
 # ifndef BUFFER_SIZE
